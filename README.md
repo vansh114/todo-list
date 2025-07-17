@@ -20,7 +20,7 @@ A simple, elegant, and interactive To-Do List web application that allows users 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/yourusername/todo-list-app.git
 
 2. Navigate to the project directory:bash
