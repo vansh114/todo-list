@@ -21,21 +21,21 @@ A simple, elegant, and interactive To-Do List web application that allows users 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git```
+   git clone https://github.com/yourusername/todo-list-app.git
 
 2. Navigate to the project directory:bash
    ```bash
-   cd todo-list-app```
+   cd todo-list-app
 
 3. Open the index.html file in your preferred web browser:
    ```bash
-   start index.html```
+   start index.html
 
 ### Usage
 
 Adding a Task
-    1. Type your task in the input field
-    2. Click the "Add" button or press Enter
+1. Type your task in the input field
+2. Click the "Add" button or press Enter
 
 Completing a Task
     1. Click on a task to mark it as completed (it will be crossed out)
