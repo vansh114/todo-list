@@ -23,57 +23,67 @@ A simple, elegant, and interactive To-Do List web application that allows users 
    ```bash
    git clone https://github.com/yourusername/todo-list-app.git```
 
-Navigate to the project directory:
+2. Navigate to the project directory:bash
+   ```bash
+   cd todo-list-app```
 
-bash
-Run
-cd todo-list-app
-Open the index.html file in your preferred web browser:
+3. Open the index.html file in your preferred web browser:
+   ```bash
+   start index.html```
 
-bash
-Run
-start index.html
-Usage
+### Usage
+
 Adding a Task
-Type your task in the input field
-Click the "Add" button or press Enter
+    1. Type your task in the input field
+    2. Click the "Add" button or press Enter
+
 Completing a Task
-Click on a task to mark it as completed (it will be crossed out)
-Click again to mark it as incomplete
+    1. Click on a task to mark it as completed (it will be crossed out)
+    2. Click again to mark it as incomplete
+
 Editing a Task
-Double-click on a task to edit it
-Press Enter to save your changes
+    1. Double-click on a task to edit it
+    2. Press Enter to save your changes
+
 Deleting a Task
-Click the "×" button on the right side of a task to delete it
-Requirements
+    1. Click the "×" button on the right side of a task to delete it
+
+### Requirements
+
 Browser Compatibility
-Chrome (latest)
-Firefox (latest)
-Safari (latest)
-Edge (latest)
+    Chrome (latest)
+    Firefox (latest)
+    Safari (latest)
+    Edge (latest)
 Dependencies
-No external dependencies or libraries are required. This application uses pure HTML, CSS, and JavaScript.
+    No external dependencies or libraries are required. This application uses pure HTML, CSS, and JavaScript.
 
-Project Structure
-plaintext
+### Project Structure
 
-├── images/│   ├── checked.png     # Image for completed tasks│   └── unchecked.png   # Image for incomplete tasks├── index.html          # Main HTML structure├── index.js            # JavaScript functionality├── style.css           # CSS styling└── README.md           # Project documentation
-Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+├── images/
+│   ├── checked.png     # Image for completed tasks
+│   └── unchecked.png   # Image for incomplete tasks
+├── index.html          # Main HTML structure
+├── index.js            # JavaScript functionality
+├── style.css           # CSS styling
+└── README.md           # Project documentation
 
-Fork the repository
-Create a new branch (git checkout -b feature/your-feature-name)
-Make your changes
-Commit your changes (git commit -m 'Add some feature')
-Push to the branch (git push origin feature/your-feature-name)
-Open a Pull Request
-License
+### License
 This project is open source and available under the MIT License.
 
-Future Enhancements
-Add categories or tags for tasks
-Implement due dates and reminders
-Add priority levels for tasks
-Create user accounts for cloud storage
-Add dark/light theme toggle
-Created with ❤️ by [Your Name]
+### Future Enhancements
+    Add categories or tags for tasks
+    Implement due dates and reminders
+    Add priority levels for tasks
+    Create user accounts for cloud storage
+    Add dark/light theme toggle
+
+### Created by Shivansh Bhavsar
+    GitHub: https://github.com/vansh114
+    Email: shivanshbhavsar2003@gmail.com
+
+### Acknowledgements
+    Special thanks to the open-source community for inspiration and support.
+
+### Disclaimer
+    This project is for educational purposes and is not intended for production use.
